@@ -1,0 +1,23 @@
+th, td {
+    padding: 10px;
+    border: 2px solid black;
+    border-style: double;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+  }
+  
+  tr {
+      background-color: #dde6cc; 
+      color: black;
+      align-content: center;
+  }
+  
+  .span {
+      background-color: #81c82a; 
+      color: aliceblue;
+  }
+  
+  .top{
+      background-color: #3e7676; 
+      color: aliceblue;
+  }
